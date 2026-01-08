@@ -1,5 +1,5 @@
 // ==WindhawkMod==
-// @id              taskbar-app-volume-control
+// @id              Taskbar-App-Volume-Control-mod
 // @name            Taskbar APP Volume Control
 // @description     Control the system volume and apps volume (SOME APPS) by scrolling .
 // @version         1.0
