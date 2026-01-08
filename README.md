@@ -1,7 +1,7 @@
 # Taskbar App Volume Control 🔊
 
 [![Windhawk Mod](https://img.shields.io/badge/Windhawk-Mod-blue?style=for-the-badge&logo=windows)](https://windhawk.net/)
-[![Version](https://img.shields.io/badge/Version-1.0-green?style=for-the-badge)](https://github.com/tz39/Taskbar-APP-Volume-Control)
+[![Version](https://img.shields.io/badge/Version-1.0-green?style=for-the-badge)](https://github.com/tz39/Taskbar-APP-Volume-Control.)
 
 **Control individual application volumes directly from your Windows Taskbar.**
 
@@ -76,3 +76,4 @@ The mod uses a **Smart Match** system to detect audio sessions. It works out-of-
 ---
 
 *Enjoying the mod? Star the repo or leave a review on Windhawk!* ⭐
+
